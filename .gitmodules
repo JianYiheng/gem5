@@ -1,0 +1,3 @@
+[submodule "cs251a_winter"]
+	path = cs251a_winter
+	url = https://github.com/JianYiheng/cs251a_winter.git
